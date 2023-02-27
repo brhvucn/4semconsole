@@ -2,13 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
-    <RootNamespace>_4sem.DAL</RootNamespace>
+    <RootNamespace>_4sem.Domain</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\4sem.Domain\4sem.Domain.csproj" />
-  </ItemGroup>
 
 </Project>
